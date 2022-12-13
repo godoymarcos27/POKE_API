@@ -1,0 +1,20 @@
+.card{
+    margin-top: 40px;
+
+  
+}
+h1{
+    color: black;
+}
+button{
+    margin-top: 90px;
+    position: relative;left:195px ;
+    padding: 5px;
+    border: none;
+    border-radius:10px;
+    background-color: rgb(166, 134, 196);
+    
+}
+/* input{
+    margin-top: 200px; 
+} */
